@@ -10,6 +10,6 @@ I'm Gift and I come from South Africa. Right now, I'm studying computer science 
 *  ⚙️ C#
 *  🐍 Python
 
-### Socials
+## Socials
 *   🔗 Find me on LinkedIn: Gift Nkgopoleng
 *   📸 Follow me on Instagram: @nkgopolenggift
