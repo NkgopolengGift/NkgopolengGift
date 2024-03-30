@@ -1,3 +1,4 @@
+![Design_and_Development](https://github.com/NkgopolengGift/NkgopolengGift/blob/main/Professional%20Technology%20LinkedIn%20Banner.jpg)
 # 💫 Hi there, I'm Gift
 
 Enthusiastic final year student pursuing a Diploma in Computer Science with a passion blending creativity and technology.<br> Eager to apply my skills in a real-world setting through an internship. Proficient in Web development using languages such as Java, JavaScript, HTML, and CSS.<br> I have build a backend project with Python, Django framework, and Restful APIs. Familiar with mobile app development using Kotlin. Also skilled in Java and Java Enterprise Edition (JEE) for building scalable enterprise applications. Excited about problem-solving and software engineering challenges.<br>
