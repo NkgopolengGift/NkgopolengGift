@@ -1,7 +1,7 @@
 ![Design_and_Development](https://github.com/NkgopolengGift/NkgopolengGift/blob/main/Professional%20Technology%20LinkedIn%20Banner.jpg)
 # 💫 Hi there, I'm Gift
 
-Final year student in Computer Science with a passion for blending creativity and technology. Skilled in web development using JavaScript, HTML, and CSS. Experienced in building backend project with Python and Django framework. Knowledgeable in mobile app development using Kotlin. Proficient in Java and Java Enterprise Edition (JEE) for building scalable enterprise applications. Excited about problem-solving and software engineering challenges.<be>
+Tech enthusiast with a intense passion for technology, I’m dedicated to problem-solving and creating seamless software solutions. Armed with languages like Java, JavaScript, HTML, CSS, and Kotlin. I also have a strong command of frameworks like Django and Java Enterprise Edition (JEE) for building robust applications that meet the evolving needs of users and businesses.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nkgopoleng-gift-b67732275/) 
