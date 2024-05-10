@@ -1,4 +1,4 @@
-![Design_and_Development](https://github.com/NkgopolengGift/NkgopolengGift/blob/main/banner%20image.png)
+![Design_and_Development](https://github.com/NkgopolengGift/NkgopolengGift/blob/main/linked.png)
 # 💫 Hi there, I'm Gift
 
 Tech enthusiast with a intense passion for technology, I’m dedicated to problem-solving and creating seamless software solutions. Armed with languages like Java, JavaScript, HTML, CSS, and Kotlin. I also have a strong command of frameworks like Django and Java Enterprise Edition (JEE) for building robust applications that meet the evolving needs of users and businesses.<br>
