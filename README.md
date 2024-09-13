@@ -1,7 +1,7 @@
 ![Design_and_Development](https://github.com/NkgopolengGift/NkgopolengGift/blob/main/linked.png)
 # 💫 Hi there, I'm Gift
 
-Tech enthusiast with a intense passion for technology, I’m dedicated to problem-solving and creating seamless software solutions. Armed with languages like Java, JavaScript, HTML, CSS, and Kotlin. I also have a strong command of frameworks like Django and Java Enterprise Edition (JEE) for building robust applications that meet the evolving needs of users and businesses.<br>
+I am a dedicated software developer with a strong background in Java, Spring Boot, JEE, Python, Django, and front-end technologies like CSS, HTML, Javascript, React and Tailwind CSS. I have worked on various impactful projects such as JobMatchup and CareerPathSA, helping to solve real-world problems through innovative solutions. I am passionate about creating meaningful software that can improve lives, whether it's by streamlining processes, enhancing security, or guiding users to better decisions. I thrive on learning new technologies, optimizing systems, and delivering high-quality solutions. My future goals include mastering full-stack development across both backend and frontend technologies, while deepening my expertise in mobile development and cloud solutions. I aim to contribute to innovative projects that have a positive social impact."<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nkgopolenggift/) 
