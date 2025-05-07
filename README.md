@@ -8,6 +8,7 @@ Passionate about crafting elegant solutions with modern tech stacks. I thrive at
 🔹 **Frontend**: React, JavaScript, Tailwind CSS, HTML/CSS  
 🔸 **Mobile**: React Native | **DevOps**: Docker, CI/CD  
 🔻 **Databases**: PostgreSQL, MySQL, SQL  
+🖥️ **Daily Driver**: Ubuntu Linux
 
 ### � What Drives Me  
 - Solving real-world problems through clean, maintainable code  
