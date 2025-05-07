@@ -13,8 +13,7 @@ Passionate about crafting elegant solutions with modern tech stacks. I thrive at
 ### � What Drives Me  
 - Solving real-world problems through clean, maintainable code  
 - Optimizing systems for performance and scalability  
-- Contributing to open-source and mentoring aspiring devs  
-- Continuous learning (currently exploring cloud-native tech!)  
+- Continuous learning
 
 ---
 
