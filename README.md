@@ -4,10 +4,10 @@
 
 Passionate about crafting elegant solutions with modern tech stacks. I thrive at the intersection of creativity and logic, building scalable systems and intuitive interfaces.  
 
-🔹 **Backend**: Java (Spring Boot, JEE), Python (Django)  
+🔹 **Backend**: Java (Spring Boot, JEE), Python (Django), Node JS  
 🔹 **Frontend**: React, JavaScript, Tailwind CSS, HTML/CSS  
 🔸 **Mobile**: React Native | **DevOps**: Docker, CI/CD  
-🔻 **Databases**: PostgreSQL, SQL  
+🔻 **Databases**: PostgreSQL, MySQL, SQL  
 
 ### � What Drives Me  
 - Solving real-world problems through clean, maintainable code  
