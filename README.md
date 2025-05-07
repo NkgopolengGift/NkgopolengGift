@@ -58,3 +58,7 @@ Passionate about crafting elegant solutions with modern tech stacks. I thrive at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nkgopolenggift/)
 
 ---
+
+**Fun Fact:** When I’m not coding, you’ll find me diving into the latest tech trends 📡, reading research papers on distributed systems, or tinkering with new tools to expand my skillset. *("There’s always something new to learn!"* 💡)  
+
+---
