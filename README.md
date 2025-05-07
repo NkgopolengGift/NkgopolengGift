@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm Gift Nkgopoleng 🚀
+# 💫 Hi there, I'm Nkgopoleng Gift Mamarara🚀
 
 **Software Engineer | Full-Stack Developer | Open-Source Enthusiast**  
 
