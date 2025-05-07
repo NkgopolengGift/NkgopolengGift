@@ -46,10 +46,25 @@ Passionate about crafting elegant solutions with modern tech stacks. I thrive at
 ---
 
 ## 📈 GitHub Stats  
-*(Same visual stats sections as before)*  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NkgopolengGift&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NkgopolengGift&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NkgopolengGift&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-**Fun Fact:** When I'm not coding, I'm either knee-deep in tech docs 📚, benchmarking new tools on my Ubuntu rig 🖥️, or automating my workflow with bash scripts. *"Efficiency is just lazyness done right!"* 😉  
+## 🏆 Achievements  
+![](https://github-profile-trophy.vercel.app/?username=NkgopolengGift&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2)
+
+---
+
+## 🌍 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nkgopolenggift/) 
+
+---
+
+**Fun Fact:** When I’m not coding, you’ll find me diving into the latest tech trends 📡, reading research papers on distributed systems, or tinkering with new tools to expand my skillset. *("There’s always something new to learn!" 💡)*
 
 ---
