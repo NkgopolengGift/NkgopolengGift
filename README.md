@@ -1,4 +1,4 @@
-![Design_and_Development](https://github.com/NkgopolengGift/NkgopolengGift/blob/main/linked.png)
+![Design_and_Development](https://github.com/NkgopolengGift/NkgopolengGift/blob/main/NG%20banner%20image.png)
 # 💫 Hi there, I'm Nkgopoleng Gift Mamarara🚀
 
 **Software Engineer | Full-Stack Developer | Open-Source Enthusiast**  
