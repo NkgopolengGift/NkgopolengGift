@@ -54,11 +54,6 @@ Passionate about crafting elegant solutions with modern tech stacks. I thrive at
 
 ---
 
-## 🏆 Achievements  
-![](https://github-profile-trophy.vercel.app/?username=NkgopolengGift&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2)
-
----
-
 ## 🌍 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nkgopolenggift/) 
 
