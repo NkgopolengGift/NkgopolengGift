@@ -1,37 +1,44 @@
 ![Design_and_Development](https://github.com/NkgopolengGift/NkgopolengGift/blob/main/NG%20banner%20image.png)
-# 💫 Hi there, I'm Nkgopoleng Gift Mamarara🚀
 
-**Software Engineer | Full-Stack Developer | Open-Source Enthusiast**  
+# 💫 Hi there, I'm **Nkgopoleng Gift Mamarara** 🚀  
+**Software Engineer | Full-Stack Developer | CEO | Open-Source Enthusiast**
 
-Passionate about crafting elegant solutions with modern tech stacks. I thrive at the intersection of creativity and logic, building scalable systems and intuitive interfaces.  
-
-🔹 **Backend**: Java (Spring Boot, **JEE**), Node.js  
-🔹 **Frontend**: React, JavaScript, Tailwind CSS, HTML/CSS  
-🔸 **Mobile**: React Native | **DevOps**: Docker, CI/CD  
-🔻 **Databases**: PostgreSQL, MySQL, SQL  
-🖥️ **Daily Driver**: Ubuntu Linux  
-
-### � What Drives Me  
-- Solving real-world problems through clean, maintainable code  
-- Optimizing systems for performance and scalability  
-- Continuous learning
+Passionate about building scalable systems and crafting elegant user experiences with modern technologies.  
+I thrive at the intersection of **creativity and logic**, designing solutions that are both intuitive and efficient.  
 
 ---
 
-## 🛠️ Tech Stack  
+## 👀 Interests  
+- Software Architecture & System Design  
+- Cybersecurity in Modern Software Systems  
+- Scalable Backend Engineering (Spring Boot, Node.js)  
+- Cloud & DevOps Automation  
+- Open Source Collaboration  
 
-**Languages & Frameworks**  
+---
+
+## 🌱 Currently Learning  
+- **Advanced Spring Boot** & secure microservices  
+- **Container orchestration** with Docker & Kubernetes  
+- **Mobile development** with React Native  
+- **DevOps workflows** (CI/CD pipelines, GitHub Actions)  
+
+---
+
+## 💻 Tech Stack  
+
+**Backend**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JEE](https://img.shields.io/badge/JEE-%23007396.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Frontend & Mobile**  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -41,6 +48,21 @@ Passionate about crafting elegant solutions with modern tech stacks. I thrive at
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🎯 Goals  
+
+**Short-term:**  
+- Master Kubernetes and CI/CD pipelines  
+- Build and deploy a production-ready full-stack SaaS project  
+- Contribute more to open-source projects  
+
+**Long-term:**  
+- Lead large-scale projects as a **Software Architect** or **CTO**  
+- Grow my company and continue to evolve as a **CEO & Technical Leader**  
+- Mentor developers and advocate for **secure, scalable, and sustainable software**  
 
 ---
 
@@ -54,11 +76,20 @@ Passionate about crafting elegant solutions with modern tech stacks. I thrive at
 
 ---
 
-## 🌍 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nkgopolenggift/) 
+## 🌍 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nkgopolenggift/)  
+📫 **Email:** nkgopolenggift@gmail.com  
 
 ---
 
-**Fun Fact:** When I’m not coding, you’ll find me diving into the latest tech trends 📡, reading research papers on distributed systems, or tinkering with new tools to expand my skillset. *("There’s always something new to learn!" 💡)*
+## ⚡ Fun Facts  
+- I love reading research papers on **distributed systems** and **secure architectures**  
+- You’ll often find me at a café, reading or brainstorming new project ideas ☕  
+- I enjoy attending **tech meetups and hackathons** — collaboration sparks creativity  
+- Motto: _“There’s always something new to learn.”_ 💡  
 
 ---
+
+> _"Code is not just logic — it’s a form of expression."_  
+> — Nkgopoleng Gift Mamarara
