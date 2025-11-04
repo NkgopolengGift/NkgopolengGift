@@ -1,7 +1,7 @@
 ![Design_and_Development](https://github.com/NkgopolengGift/NkgopolengGift/blob/main/NG%20banner%20image.png)
 
 # 💫 Hi there, I'm **Nkgopoleng Gift Mamarara** 🚀  
-**Software Engineer | Full-Stack Developer | CEO | Open-Source Enthusiast**
+**Software Engineer | Open-Source Enthusiast**
 
 Passionate about building scalable systems and crafting elegant user experiences with modern technologies.  
 I thrive at the intersection of **creativity and logic**, designing solutions that are both intuitive and efficient.  
