@@ -18,10 +18,8 @@ I thrive at the intersection of **creativity and logic**, designing solutions th
 ---
 
 ## 🌱 Currently Learning  
-- **Advanced Spring Boot** & secure microservices  
 - **Container orchestration** with Docker & Kubernetes  
-- **Mobile development** with React Native  
-- **DevOps workflows** (CI/CD pipelines, GitHub Actions)  
+- **DevOps workflows** (CI/CD pipelines, Jenkins)  
 
 ---
 
