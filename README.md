@@ -46,7 +46,7 @@ I thrive at the intersection of **creativity and logic**, designing solutions th
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub ](https://img.shields.io/badge/GitHub-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-%232671E5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NkgopolengGift)
 
 ---
 
