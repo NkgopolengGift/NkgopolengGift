@@ -82,9 +82,8 @@ I thrive at the intersection of **creativity and logic**, designing solutions th
 ---
 
 ## ⚡ Fun Facts  
-- I love reading research papers on **distributed systems** and **secure architectures**  
-- You’ll often find me at a café, reading or brainstorming new project ideas ☕  
-- I enjoy attending **tech meetups and hackathons** — collaboration sparks creativity  
+- I love reading research on **distributed systems** and **secure architectures**  
+- I love brainstorming new project ideas ☕  
 - Motto: _“There’s always something new to learn.”_ 💡  
 
 ---
