@@ -59,7 +59,6 @@ I thrive at the intersection of **creativity and logic**, designing solutions th
 
 **Long-term:**  
 - Lead large-scale projects as a **Software Architect** or **CTO**  
-- Grow my company and continue to evolve as a **CEO & Technical Leader**  
 - Mentor developers and advocate for **secure, scalable, and sustainable software**  
 
 ---
